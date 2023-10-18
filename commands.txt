@@ -1,0 +1,5 @@
+check_in,45,Leyton,3
+check_in,32,Paradise,8
+check_out,45,Waterloo,15
+check_out,32,Cambridge,22
+get_average,Paradise,Cambridge
