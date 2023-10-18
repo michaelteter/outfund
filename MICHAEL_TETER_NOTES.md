@@ -73,4 +73,4 @@ the README indicates the input data will be valid already).
 ## Test Coverage
 
 Simplecov was added to the Gemfile, so running rspec will also create a
-`./coverage/index.html` file that describes the test coverage.
+`./coverage/index.html` file that describes the (100%) test coverage.
