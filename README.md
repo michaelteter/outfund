@@ -1,7 +1,8 @@
 # UnderGround System
 
-[!NOTE]
-Notice: This is the original, unedited README with the exception of this top paragraph. Please see [MICHAEL_TETER_NOTES.md](./MICHAEL_TETER_NOTES.md) for my own comments and notes.
+> **Note**
+>
+> This is the original, unedited README with the exception of this top paragraph. Please see [MICHAEL_TETER_NOTES.md](./MICHAEL_TETER_NOTES.md) for my own comments and notes.
 
 An underground railway system is keeping track of customer travel times between different stations.
 They are using this data to calculate the average time it takes to travel from one station to another.
